@@ -13,10 +13,5 @@ public class addition1to10 {
     }
 }
 
-////write a program to Check Whether a Given Number is Prime or Not
-
-///Write Java program to Print Fibonacci Series
-
-///Write Java program to Generate Random Numbers from 0 to given Range
 
 
